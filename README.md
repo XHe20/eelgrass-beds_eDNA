@@ -13,6 +13,8 @@ _*Corresponding author_
 3. Institute of Ocean Sciences, Fisheries and Oceans Canada, 9860 W Saanich Rd, Sidney, BC V8L 5T5, Canada
 4. Gulf Fisheries Centre, Fisheries and Oceans Canada, 343 Université Avenue, Moncton, NB, E1C 9B6, Canada
 
+:large_blue_circle:**More details about this study can be found in our paper:**
+He X., Stanley R. R. E., Rubidge E. M., Jeffery N. W., Hamilton L. C., Westfall K. M., Gilmore S. R. et al.  2022. Fish community surveys in eelgrass beds using both eDNA metabarcoding and seining: implications for biodiversity monitoring in the coastal zone. Canadian Journal of Fisheries and Aquatic Sciences, 79: 1335–1346. https://doi.org/10.1139/cjfas-2021-0215
 
 
 ![ ](/inst/Figure1.jpg)
